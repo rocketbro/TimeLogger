@@ -97,10 +97,10 @@ Use the last saved start time as the start time for your current task.
 This is useful is Time Logger was stopped before you logged your task and you want to pick up where you left off.
 This command must be run as soon as Time Logger boots, before a new timer starts. Otherwise it will have no effect. 
 
-'tog remaining hours display'
+'tog remain'
 Show/hide the 'Total remaining hours' line in the console when logging a completed task.
 
-'tog total hours display'
+'tog total'
 Show/hide the 'Total hours tracked' line in the console when logging a completed task.
 
 'initialize'
@@ -255,8 +255,8 @@ commands = {
 	"task dur" : currentTaskDuration,
 	"initialize": initialize,
 	"recover" : recover,
-	"tog remaining hours display" : toggleTotalHourDisplay,
-	"tog total hours display" : toggleRemainingHourDisplay
+	"tog total" : toggleTotalHourDisplay,
+	"tog remain" : toggleRemainingHourDisplay
 	}
 	
 
