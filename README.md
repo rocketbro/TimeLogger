@@ -20,7 +20,6 @@ While TimeLogger is currently basic in functionality, future updates may include
 To use TimeLogger, ensure you have the latest version of Python installed (version 3 and above) and follow these steps:
 
 1. Clone the repository onto your local machine:  
-
 `git clone https://github.com/rocketbro/TimeLogger.git`
 
 2. Navigate into the directory where you cloned TimeLogger:
@@ -31,7 +30,6 @@ To use TimeLogger, ensure you have the latest version of Python installed (versi
 Once you have cloned the repository and navigated into the TimeLogger directory, follow these steps to use the application:
 
 1. Run the following command:
-
 `python TimeLogger.py`
 
 2. The application will guide you through the rest of the setup process.
