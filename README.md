@@ -8,12 +8,14 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 <br>
+
 ## Description
 TimeLogger is a command-line application designed for simple task tracking. It provides a minimalistic approach to logging tasks, avoiding the complexities of other task-tracking applications. I created TimeLogger to streamline my task logging process without distractions.
 
 ### Future Features
 While TimeLogger is currently basic in functionality, future updates may include features such as task categorization, removing tasks from log file, and improved user interface. 
 <br>
+
 ## Installation
 To use TimeLogger, ensure you have the latest version of Python installed (version 3 and above) and follow these steps:
 
@@ -24,6 +26,7 @@ To use TimeLogger, ensure you have the latest version of Python installed (versi
 2. Navigate into the directory where you cloned TimeLogger:
 `cd <directory>`
 <br>
+
 ## Usage
 Once you have cloned the repository and navigated into the TimeLogger directory, follow these steps to use the application:
 
