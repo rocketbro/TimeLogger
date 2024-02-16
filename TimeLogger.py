@@ -15,7 +15,7 @@ import json
 # define & initialize global variables
 tl_data = {}
 start_time = 0
-app_version = "1.1.0"
+app_version = "1.1.1"
 
 
 # define functions for managing data
@@ -31,7 +31,7 @@ def save():
     global tl_data
     try:
         with open("tl_data.json", "w") as data_file:
-            json.dump(tl_data, data_file)
+            json.dump(tl_data, data_file, indent = 4)
     except Exception as error:
         print(error)
 
@@ -63,7 +63,7 @@ def documentation():
 ~~~
 
 TIME LOGGER
-Version 2.0.1
+Version: {app_version}
 
 Created by Asher Pope
 asher@asherpope.com
