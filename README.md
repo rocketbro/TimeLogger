@@ -30,7 +30,7 @@ To use TimeLogger, ensure you have the latest version of Python installed (versi
 Once you have cloned the repository and navigated into the TimeLogger directory, follow these steps to use the application:
 
 1. Run the following command:
-`python TimeLogger.py`
+`python3 TimeLogger.py`
 
 2. The application will guide you through the rest of the setup process.
 3. After setup, you can type "help" for a list of commands and their descriptions.
